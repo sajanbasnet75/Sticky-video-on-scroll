@@ -1,0 +1,13 @@
+.video-box
+{width:700px;
+}
+
+.stick-video{
+   width:25px;
+  position: fixed;
+  margin-top:60px;
+  top: 0;
+  left: 0;
+  z-index: 999;
+   width:25px;
+}

@@ -16,7 +16,8 @@ scroll_video.data('status','nothing');
   });
 
   $('#newsVideos').on('pause', function() {
-  scroll_video.data('status','paused');
+  scroll_video.data('status','nothing');
+  
   });
 
   

@@ -2,12 +2,23 @@
 {width:700px;
 }
 
+.video-box2{
+	width:260px;
+}
+
 .stick-video{
-   width:25px;
   position: fixed;
   margin-top:60px;
   top: 0;
-  left: 0;
+  left: 2;
   z-index: 999;
-   width:25px;
+}
+.video-button{
+	position: absolute;
+    top: 4px;
+    left:198px;
+    cursor: pointer;
+    font-size:34px; 
+    background:transparent;
+    border:none;color:grey;
 }

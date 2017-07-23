@@ -15,12 +15,11 @@
 	</div>
 <div style="height:450px;">  
 <center >  
-<div class="scroll-video "> <!-- for images-->
-        
-         <video src="videos/mildiena.mp4"  autobuffer  controls id="newsVideos" class="img-responsive video-box" 
+<div class="scroll-video ">
+         <video src="videos/mildiena.mp4"  autobuffer  controls id="newsVideos" class="video-box img-responsive " 
          style="border:solid 1px grey;box-shadow: 5px 5px 2px #888888;">
           </video> 
-        <button class="video-button" style="margin-top:5px;">Close</button>
+        <button class="video-button"><b>&times</b></button>
         
      </div>
    </center>    
